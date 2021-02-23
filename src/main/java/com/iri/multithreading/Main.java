@@ -7,7 +7,7 @@ import com.iri.multithreading.service.ImplementingRunnable;
 public class Main {
     public static void main(String[] args) {
         Counter counter = new Counter();
-        ExtendingThread extendingThread = new ExtendingThread(counter);
+        Thread extendingThread = new ExtendingThread(counter);
         Thread implementingRunnable = new Thread(new ImplementingRunnable(counter));
         extendingThread.start();
         implementingRunnable.start();
