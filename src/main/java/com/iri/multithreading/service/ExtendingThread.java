@@ -2,12 +2,12 @@ package com.iri.multithreading.service;
 
 import org.apache.log4j.Logger;
 
-public class ThreadOne extends Thread {
-    private static final Logger logger = Logger.getLogger(ThreadOne.class);
+public class ExtendingThread extends Thread {
+    private static final Logger logger = Logger.getLogger(ExtendingThread.class);
     private static final int MAX_COUNT = 100;
     private Counter counter;
 
-    public ThreadOne(Counter counter) {
+    public ExtendingThread(Counter counter) {
         this.counter = counter;
     }
 
