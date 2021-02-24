@@ -402,4 +402,408 @@
  13:54:56,266 INFO  ExtendingThread:18 - Thread-0count = 92
 
  13:54:56,266 INFO  ExtendingThread:21 - ThreadOne finished
+ 13:01:37,938 INFO  ExtendingThread:18 - Thread-0count = 2
+
+ 13:01:37,986 INFO  ExtendingThread:18 - Thread-0count = 3
+
+ 13:01:37,986 INFO  ExtendingThread:18 - Thread-0count = 4
+
+ 13:01:37,986 INFO  ExtendingThread:18 - Thread-0count = 5
+
+ 13:01:37,986 INFO  ExtendingThread:18 - Thread-0count = 6
+
+ 13:01:37,986 INFO  ExtendingThread:18 - Thread-0count = 7
+
+ 13:01:37,986 INFO  ExtendingThread:18 - Thread-0count = 8
+
+ 13:01:37,987 INFO  ExtendingThread:18 - Thread-0count = 9
+
+ 13:01:37,993 INFO  ExtendingThread:18 - Thread-0count = 10
+
+ 13:01:37,993 INFO  ExtendingThread:18 - Thread-0count = 11
+
+ 13:01:37,993 INFO  ExtendingThread:18 - Thread-0count = 12
+
+ 13:01:37,993 INFO  ExtendingThread:18 - Thread-0count = 13
+
+ 13:01:37,994 INFO  ExtendingThread:18 - Thread-0count = 14
+
+ 13:01:37,994 INFO  ExtendingThread:18 - Thread-0count = 15
+
+ 13:01:37,994 INFO  ExtendingThread:18 - Thread-0count = 16
+
+ 13:01:37,994 INFO  ExtendingThread:18 - Thread-0count = 17
+
+ 13:01:37,998 INFO  ExtendingThread:18 - Thread-0count = 18
+
+ 13:01:37,999 INFO  ExtendingThread:18 - Thread-0count = 19
+
+ 13:01:37,999 INFO  ExtendingThread:18 - Thread-0count = 20
+
+ 13:01:38,000 INFO  ExtendingThread:18 - Thread-0count = 21
+
+ 13:01:38,000 INFO  ExtendingThread:18 - Thread-0count = 22
+
+ 13:01:38,001 INFO  ExtendingThread:18 - Thread-0count = 23
+
+ 13:01:38,001 INFO  ExtendingThread:18 - Thread-0count = 24
+
+ 13:01:38,001 INFO  ExtendingThread:18 - Thread-0count = 25
+
+ 13:01:38,001 INFO  ExtendingThread:18 - Thread-0count = 26
+
+ 13:01:38,001 INFO  ExtendingThread:18 - Thread-0count = 27
+
+ 13:01:38,002 INFO  ExtendingThread:18 - Thread-0count = 28
+
+ 13:01:38,002 INFO  ExtendingThread:18 - Thread-0count = 29
+
+ 13:01:38,002 INFO  ExtendingThread:18 - Thread-0count = 30
+
+ 13:01:38,002 INFO  ExtendingThread:18 - Thread-0count = 31
+
+ 13:01:38,002 INFO  ExtendingThread:18 - Thread-0count = 32
+
+ 13:01:38,002 INFO  ExtendingThread:18 - Thread-0count = 33
+
+ 13:01:38,002 INFO  ExtendingThread:18 - Thread-0count = 34
+
+ 13:01:38,003 INFO  ExtendingThread:18 - Thread-0count = 35
+
+ 13:01:38,003 INFO  ExtendingThread:18 - Thread-0count = 36
+
+ 13:01:38,003 INFO  ExtendingThread:18 - Thread-0count = 37
+
+ 13:01:38,003 INFO  ExtendingThread:18 - Thread-0count = 38
+
+ 13:01:38,003 INFO  ExtendingThread:18 - Thread-0count = 39
+
+ 13:01:38,003 INFO  ExtendingThread:18 - Thread-0count = 40
+
+ 13:01:38,003 INFO  ExtendingThread:18 - Thread-0count = 41
+
+ 13:01:38,004 INFO  ExtendingThread:18 - Thread-0count = 42
+
+ 13:01:38,004 INFO  ExtendingThread:18 - Thread-0count = 43
+
+ 13:01:38,004 INFO  ExtendingThread:18 - Thread-0count = 44
+
+ 13:01:38,004 INFO  ExtendingThread:18 - Thread-0count = 45
+
+ 13:01:38,004 INFO  ExtendingThread:18 - Thread-0count = 46
+
+ 13:01:38,004 INFO  ExtendingThread:18 - Thread-0count = 47
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 48
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 49
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 50
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 51
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 52
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 53
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 54
+
+ 13:01:38,005 INFO  ExtendingThread:18 - Thread-0count = 55
+
+ 13:01:38,006 INFO  ExtendingThread:18 - Thread-0count = 56
+
+ 13:01:38,006 INFO  ExtendingThread:18 - Thread-0count = 57
+
+ 13:01:38,006 INFO  ExtendingThread:18 - Thread-0count = 58
+
+ 13:01:38,006 INFO  ExtendingThread:18 - Thread-0count = 59
+
+ 13:01:38,007 INFO  ExtendingThread:18 - Thread-0count = 60
+
+ 13:01:38,007 INFO  ExtendingThread:18 - Thread-0count = 61
+
+ 13:01:38,007 INFO  ExtendingThread:18 - Thread-0count = 62
+
+ 13:01:38,007 INFO  ExtendingThread:18 - Thread-0count = 63
+
+ 13:01:38,007 INFO  ExtendingThread:18 - Thread-0count = 64
+
+ 13:01:38,007 INFO  ExtendingThread:18 - Thread-0count = 65
+
+ 13:01:38,007 INFO  ExtendingThread:18 - Thread-0count = 66
+
+ 13:01:38,008 INFO  ExtendingThread:18 - Thread-0count = 67
+
+ 13:01:38,008 INFO  ExtendingThread:18 - Thread-0count = 68
+
+ 13:01:38,008 INFO  ExtendingThread:18 - Thread-0count = 69
+
+ 13:01:38,008 INFO  ExtendingThread:18 - Thread-0count = 70
+
+ 13:01:38,008 INFO  ExtendingThread:18 - Thread-0count = 71
+
+ 13:01:38,008 INFO  ExtendingThread:18 - Thread-0count = 72
+
+ 13:01:38,009 INFO  ExtendingThread:18 - Thread-0count = 73
+
+ 13:01:38,009 INFO  ExtendingThread:18 - Thread-0count = 74
+
+ 13:01:38,011 INFO  ExtendingThread:18 - Thread-0count = 75
+
+ 13:01:38,011 INFO  ExtendingThread:18 - Thread-0count = 76
+
+ 13:01:38,011 INFO  ExtendingThread:18 - Thread-0count = 77
+
+ 13:01:38,011 INFO  ExtendingThread:18 - Thread-0count = 78
+
+ 13:01:38,011 INFO  ExtendingThread:18 - Thread-0count = 79
+
+ 13:01:38,011 INFO  ExtendingThread:18 - Thread-0count = 80
+
+ 13:01:38,021 INFO  ExtendingThread:18 - Thread-0count = 81
+
+ 13:01:38,021 INFO  ExtendingThread:18 - Thread-0count = 82
+
+ 13:01:38,021 INFO  ExtendingThread:18 - Thread-0count = 83
+
+ 13:01:38,021 INFO  ExtendingThread:18 - Thread-0count = 84
+
+ 13:01:38,022 INFO  ExtendingThread:18 - Thread-0count = 85
+
+ 13:01:38,022 INFO  ExtendingThread:18 - Thread-0count = 86
+
+ 13:01:38,023 INFO  ExtendingThread:18 - Thread-0count = 87
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 88
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 89
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 90
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 91
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 92
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 93
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 94
+
+ 13:01:38,025 INFO  ExtendingThread:18 - Thread-0count = 95
+
+ 13:01:38,026 INFO  ExtendingThread:18 - Thread-0count = 96
+
+ 13:01:38,026 INFO  ExtendingThread:18 - Thread-0count = 97
+
+ 13:01:38,026 INFO  ExtendingThread:18 - Thread-0count = 98
+
+ 13:01:38,026 INFO  ExtendingThread:18 - Thread-0count = 99
+
+ 13:01:38,026 INFO  ExtendingThread:18 - Thread-0count = 100
+
+ 13:01:38,026 INFO  ExtendingThread:21 - ThreadOne finished
+ 13:01:37,955 INFO  ImplementingRunnable:18 - Thread-1count = 1
+
+ 13:01:38,029 INFO  ImplementingRunnable:21 - ThreadTwo finished
+ 13:02:36,126 INFO  ExtendingThread:18 - Thread-0count = 1
+
+ 13:02:36,199 INFO  ExtendingThread:18 - Thread-0count = 3
+
+ 13:02:36,200 INFO  ExtendingThread:18 - Thread-0count = 4
+
+ 13:02:36,200 INFO  ExtendingThread:18 - Thread-0count = 5
+
+ 13:02:36,200 INFO  ExtendingThread:18 - Thread-0count = 6
+
+ 13:02:36,200 INFO  ExtendingThread:18 - Thread-0count = 7
+
+ 13:02:36,200 INFO  ExtendingThread:18 - Thread-0count = 8
+
+ 13:02:36,200 INFO  ExtendingThread:18 - Thread-0count = 9
+
+ 13:02:36,203 INFO  ExtendingThread:18 - Thread-0count = 10
+
+ 13:02:36,203 INFO  ExtendingThread:18 - Thread-0count = 11
+
+ 13:02:36,203 INFO  ExtendingThread:18 - Thread-0count = 12
+
+ 13:02:36,203 INFO  ExtendingThread:18 - Thread-0count = 13
+
+ 13:02:36,204 INFO  ExtendingThread:18 - Thread-0count = 14
+
+ 13:02:36,204 INFO  ExtendingThread:18 - Thread-0count = 15
+
+ 13:02:36,204 INFO  ExtendingThread:18 - Thread-0count = 16
+
+ 13:02:36,204 INFO  ExtendingThread:18 - Thread-0count = 17
+
+ 13:02:36,206 INFO  ExtendingThread:18 - Thread-0count = 18
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 19
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 20
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 21
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 22
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 23
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 24
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 25
+
+ 13:02:36,207 INFO  ExtendingThread:18 - Thread-0count = 26
+
+ 13:02:36,208 INFO  ExtendingThread:18 - Thread-0count = 27
+
+ 13:02:36,208 INFO  ExtendingThread:18 - Thread-0count = 28
+
+ 13:02:36,208 INFO  ExtendingThread:18 - Thread-0count = 29
+
+ 13:02:36,118 INFO  ImplementingRunnable:18 - Thread-1count = 2
+
+ 13:02:36,209 INFO  ImplementingRunnable:18 - Thread-1count = 31
+
+ 13:02:36,209 INFO  ImplementingRunnable:18 - Thread-1count = 32
+
+ 13:02:36,209 INFO  ImplementingRunnable:18 - Thread-1count = 33
+
+ 13:02:36,209 INFO  ImplementingRunnable:18 - Thread-1count = 34
+
+ 13:02:36,209 INFO  ImplementingRunnable:18 - Thread-1count = 35
+
+ 13:02:36,209 INFO  ImplementingRunnable:18 - Thread-1count = 36
+
+ 13:02:36,210 INFO  ImplementingRunnable:18 - Thread-1count = 37
+
+ 13:02:36,210 INFO  ImplementingRunnable:18 - Thread-1count = 38
+
+ 13:02:36,208 INFO  ExtendingThread:18 - Thread-0count = 30
+
+ 13:02:36,210 INFO  ExtendingThread:18 - Thread-0count = 40
+
+ 13:02:36,210 INFO  ExtendingThread:18 - Thread-0count = 41
+
+ 13:02:36,210 INFO  ExtendingThread:18 - Thread-0count = 42
+
+ 13:02:36,217 INFO  ExtendingThread:18 - Thread-0count = 43
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 44
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 45
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 46
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 47
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 48
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 49
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 50
+
+ 13:02:36,218 INFO  ExtendingThread:18 - Thread-0count = 51
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 52
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 53
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 54
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 55
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 56
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 57
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 58
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 59
+
+ 13:02:36,219 INFO  ExtendingThread:18 - Thread-0count = 60
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 61
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 62
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 63
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 64
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 65
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 66
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 67
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 68
+
+ 13:02:36,220 INFO  ExtendingThread:18 - Thread-0count = 69
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 70
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 71
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 72
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 73
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 74
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 75
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 76
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 77
+
+ 13:02:36,221 INFO  ExtendingThread:18 - Thread-0count = 78
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 79
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 80
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 81
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 82
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 83
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 84
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 85
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 86
+
+ 13:02:36,222 INFO  ExtendingThread:18 - Thread-0count = 87
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 88
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 89
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 90
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 91
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 92
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 93
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 94
+
+ 13:02:36,223 INFO  ExtendingThread:18 - Thread-0count = 95
+
+ 13:02:36,224 INFO  ExtendingThread:18 - Thread-0count = 96
+
+ 13:02:36,224 INFO  ExtendingThread:18 - Thread-0count = 97
+
+ 13:02:36,224 INFO  ExtendingThread:18 - Thread-0count = 98
+
+ 13:02:36,224 INFO  ExtendingThread:18 - Thread-0count = 99
+
+ 13:02:36,224 INFO  ExtendingThread:18 - Thread-0count = 100
+
+ 13:02:36,224 INFO  ExtendingThread:21 - ThreadOne finished
+ 13:02:36,210 INFO  ImplementingRunnable:18 - Thread-1count = 39
+
+ 13:02:36,235 INFO  ImplementingRunnable:21 - ThreadTwo finished
  
