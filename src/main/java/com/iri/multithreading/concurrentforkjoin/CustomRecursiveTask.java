@@ -22,9 +22,9 @@ public class CustomRecursiveTask extends RecursiveTask<Integer> {
             CustomRecursiveTask firstHalf = new CustomRecursiveTask(integers, start, half);
             CustomRecursiveTask secondHalf = new CustomRecursiveTask(integers, half + 1, end);
             firstHalf.fork();
-            Integer integer = secondHalf.compute();
-            Integer integer1 = firstHalf.join();
-            return integer1 + integer;
+            Integer secondHalfComputation = secondHalf.compute();
+            Integer firstHalfComputation = firstHalf.join();
+            return firstHalfComputation + secondHalfComputation;
         }
         int sum = 0;
         for (int i = start; i <= end; i++) {
