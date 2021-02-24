@@ -99,7 +99,7 @@
                 <configuration>
                     <excludes>
                         <exclude>**/Main*</exclude>
-                        <exclude>**/service/*</exclude>
+                        <exclude>**/threadcompetition/*</exclude>
                     </excludes>
                 </configuration>
             </plugin>
