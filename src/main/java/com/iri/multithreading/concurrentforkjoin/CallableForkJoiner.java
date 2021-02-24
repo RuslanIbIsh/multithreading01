@@ -8,7 +8,8 @@ public class CallableForkJoiner {
     public int sumSublist() {
         List<Integer> integers = ListFillerUtil.getFilledList();
         ForkJoinPool forkJoinPool = ForkJoinPool.commonPool();
-        CustomRecursiveTask customRecursiveTask = new CustomRecursiveTask(integers);
+        CustomRecursiveTask customRecursiveTask =
+                new CustomRecursiveTask(integers, 0, integers.size() - 1);
         return forkJoinPool.invoke(customRecursiveTask);
     }
 }
