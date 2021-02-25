@@ -1,6 +1,5 @@
 package com.iri.multithreading.concurrentexecutor;
 
-import com.iri.multithreading.util.ListFillerUtil;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.Callable;
@@ -14,8 +13,8 @@ public class CallableExecutor {
     private static final int QUANTITY_THREADS = 5;
     private static final int CHUNK = 200_000;
 
-    public int getSumSublist() {
-        List<Callable<Integer>> listCallable = getCallableLists();
+    public int getSumSublist(List<Integer> dataList) {
+        List<Callable<Integer>> listCallable = getCallableLists(dataList);
         ExecutorService executorService = Executors.newFixedThreadPool(QUANTITY_THREADS);
         try {
             List<Future<Integer>> futures = executorService.invokeAll(listCallable);
@@ -30,9 +29,8 @@ public class CallableExecutor {
         }
     }
 
-    private List<Callable<Integer>> getCallableLists() {
-        List<Integer> bigDataList = ListFillerUtil.getFilledList();
-        List<List<Integer>> bigDataSubLists = ListUtils.partition(bigDataList, CHUNK);
+    private List<Callable<Integer>> getCallableLists(List<Integer> integerList) {
+        List<List<Integer>> bigDataSubLists = ListUtils.partition(integerList, CHUNK);
         List<Callable<Integer>> listCallable = new ArrayList<>();
         for (List<Integer> integers : bigDataSubLists) {
             listCallable.add(new SumSublistCallableImpl(integers));

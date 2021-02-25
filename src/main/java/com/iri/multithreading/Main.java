@@ -5,6 +5,7 @@ import com.iri.multithreading.concurrentforkjoin.CallableForkJoiner;
 import com.iri.multithreading.threadcompetition.Counter;
 import com.iri.multithreading.threadcompetition.ExtendingThread;
 import com.iri.multithreading.threadcompetition.ImplementingRunnable;
+import com.iri.multithreading.util.ListFillerUtil;
 
 public class Main {
     public static void main(String[] args) {
@@ -15,10 +16,10 @@ public class Main {
         implementingRunnable.start();
 
         CallableExecutor callableExecutor = new CallableExecutor();
-        System.out.println(callableExecutor.getSumSublist());
+        System.out.println(callableExecutor.getSumSublist(ListFillerUtil.getFilledList()));
 
         CallableForkJoiner callableForkJoiner = new CallableForkJoiner();
-        System.out.println(callableForkJoiner.sumSublist());
+        System.out.println(callableForkJoiner.sumSublist(ListFillerUtil.getFilledList()));
 
     }
 }
