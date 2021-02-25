@@ -1,4 +1,4 @@
-package com.iri.multithreading.service;
+package com.iri.multithreading.threadcompetition;
 
 public class Counter {
     private int count;

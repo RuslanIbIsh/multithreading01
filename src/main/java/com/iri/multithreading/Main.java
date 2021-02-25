@@ -1,8 +1,11 @@
 package com.iri.multithreading;
 
-import com.iri.multithreading.service.Counter;
-import com.iri.multithreading.service.ExtendingThread;
-import com.iri.multithreading.service.ImplementingRunnable;
+import com.iri.multithreading.concurrentexecutor.CallableExecutor;
+import com.iri.multithreading.concurrentforkjoin.CallableForkJoiner;
+import com.iri.multithreading.threadcompetition.Counter;
+import com.iri.multithreading.threadcompetition.ExtendingThread;
+import com.iri.multithreading.threadcompetition.ImplementingRunnable;
+import com.iri.multithreading.util.ListFillerUtil;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,5 +14,12 @@ public class Main {
         Thread implementingRunnable = new Thread(new ImplementingRunnable(counter));
         extendingThread.start();
         implementingRunnable.start();
+
+        CallableExecutor callableExecutor = new CallableExecutor();
+        System.out.println(callableExecutor.getSumSublist(ListFillerUtil.getFilledList()));
+
+        CallableForkJoiner callableForkJoiner = new CallableForkJoiner();
+        System.out.println(callableForkJoiner.sumSublist(ListFillerUtil.getFilledList()));
+
     }
 }

@@ -1,4 +1,4 @@
-package com.iri.multithreading.service;
+package com.iri.multithreading.threadcompetition;
 
 import org.apache.log4j.Logger;
 
