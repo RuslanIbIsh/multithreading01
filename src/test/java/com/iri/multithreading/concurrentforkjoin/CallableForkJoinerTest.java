@@ -1,10 +1,11 @@
 package com.iri.multithreading.concurrentforkjoin;
 
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
-import static org.junit.Assert.*;
 
 public class CallableForkJoinerTest {
+    private static final int EXPECTED_SUM = 1_000_000;
     private CallableForkJoiner callableForkJoiner;
 
     @Before
@@ -13,7 +14,7 @@ public class CallableForkJoinerTest {
     }
 
     @Test
-    public void wheSumForkJoiner() {
-        assertEquals(1000000, callableForkJoiner.sumSublist());
+    public void whenForkJoin_expectCorrectSum() {
+        Assert.assertEquals(EXPECTED_SUM, callableForkJoiner.sumSublist());
     }
 }
